@@ -3,6 +3,10 @@
 ## AIM:
 To simulate a Full wave Bridge rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
+<img width="1913" height="1004" alt="image" src="https://github.com/user-attachments/assets/97ce2816-86f0-49e8-aa01-c58396ed23c0" />
+<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/ed26d5e3-919b-4b02-98fc-6edaa15bf012" />
+
+
 
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
@@ -44,5 +48,12 @@ To simulate a Full wave Bridge rectifier circuit and compare the outputs with an
 37.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## OUTPUT:
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/7717056c-9460-42d7-bab0-86511952462d" />
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/d9feb2bc-a214-4145-88ae-4af786d6005c" />
+
+
+
 
 ## RESULT:
+![WhatsApp Image 2025-11-27 at 12 45 00 PM](https://github.com/user-attachments/assets/bd6f539d-28b3-417c-aa24-03b5f9d2df10)
+
